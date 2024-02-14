@@ -20,4 +20,4 @@ var app=new function(){this.name="Wolfgang",this.version="1",this.date="2024",th
 {name:"18_yori",color:"0A8AC6",uniqsnd:!1},
 {name:"19_resonance",color:"0A8AC6",uniqsnd:!1},
 {name:"20_ido",color:"0A8AC6",uniqsnd:!0},
-],this.bonusarray=[{name:"Gray World",src:"b1-gray_world-hb.mp4",code:"2,8,10,12,13",sound:"bonus-gray_world",aspire:"aspire-gray_world"}],this.unlockerarray=[];for(var n=0,o=this.animearray.length;n<o;n++){var a=this.animearray[n].name;this.animearray[n].soundA=a+"_a",this.animearray[n].soundB=this.animearray[n].uniqsnd?a+"_a":a+"_b",this.animearray[n].anime=a+"-sprite.png",this.animearray[n].animeData=a+".json"}};
+],this.bonusarray=[{name:"Gray World",src:"b1-gray_world-hb.mp4",code:"5,7,9,10,17",sound:"bonus-gray_world",aspire:"aspire-gray_world"}],this.unlockerarray=[];for(var n=0,o=this.animearray.length;n<o;n++){var a=this.animearray[n].name;this.animearray[n].soundA=a+"_a",this.animearray[n].soundB=this.animearray[n].uniqsnd?a+"_a":a+"_b",this.animearray[n].anime=a+"-sprite.png",this.animearray[n].animeData=a+".json"}};
