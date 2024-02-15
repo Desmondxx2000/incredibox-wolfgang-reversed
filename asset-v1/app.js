@@ -16,7 +16,7 @@ var app=new function(){this.name="Wolfgang",this.version="1",this.date="2024",th
 {name:"14_sasha",color:"FFD52B",uniqsnd:!0},
 {name:"15_cubix",color:"FFD52B",uniqsnd:!1},
 {name:"16_jake",color:"0A8AC6",uniqsnd:!1},
-{name:"17_drdoctor",color:"0A8AC6",uniqsnd:!1},
+{name:"17_drdoctor",color:"0A8AC6",uniqsnd:!0},
 {name:"18_yori",color:"0A8AC6",uniqsnd:!1},
 {name:"19_resonance",color:"0A8AC6",uniqsnd:!1},
 {name:"20_ido",color:"0A8AC6",uniqsnd:!0},
